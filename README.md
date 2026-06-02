@@ -1,4 +1,4 @@
-# Objetivos del Repositorio
+# Objetivos del Repositorio principal
 
 Este es un repositorio de la liga de la justicia
 
